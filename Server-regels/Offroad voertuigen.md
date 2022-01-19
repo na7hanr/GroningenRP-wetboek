@@ -88,13 +88,13 @@ Onderstaande lijst geeft aan met welke voertuigen je off-road mag rijden en met 
 | Mercedes S63 AMG Coupé |  B
 | Mini Cooper GP | B
 | Mitsubishi  Lancer Evo VI T.M.E. 1996 | B
-| MV Agusta F4 RR | B
+| MV Agusta F4 RR | Z
 | Nissan Fairlady Z (s30) | B
 | Nissan GTR | B
 | Nissan R34 GTR Skyline | B
 | Nissan Skyline 25GT Turbo | B
 | Porsche 911 Carrera S | B
-| Porsche Panamera 2021 |
+| Porsche Panamera 2021 | Z
 | Porsche 911 Turbo S | B
 | Porsche 993 GT2 RWB | B
 | Porsche GT2RS | B
@@ -116,5 +116,5 @@ Onderstaande lijst geeft aan met welke voertuigen je off-road mag rijden en met 
 | Volkswagen Golf GTI MK1 | B
 | Volkswagen Golf MK7 | B
 | Volkswagen Golf MK6 | B
-| Volvo | S60 Polestar | B
+| Volvo S60 Polestar | B
 | Volvo XC90 | Z
