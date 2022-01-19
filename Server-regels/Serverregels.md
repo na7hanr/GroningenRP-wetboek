@@ -22,7 +22,7 @@ De overtreding van Wet 1.3 (Verstoring van RP) zal resulteren in een straf van d
 
 ## Wet 1.4 - Random Deathmatch (RDM)
 
-Onder de categorie "RDM" valt het vermooden van een speler zonder enige intentie van kwalitatieve roleplay. Iemand dient ten alle tijden een mogelijkheid hebben om er iets tegen in ruil te doen.
+Onder de categorie "RDM" valt het vermoorden van een speler zonder enige intentie van kwalitatieve roleplay. Iemand dient ten alle tijden een mogelijkheid hebben om er iets tegen in ruil te doen.
 Het vermoorden van iemand doormiddel van het naar iemand toelopen, hostagen en gelijk doodschieten is dus ten alle tijden verboden en gaat tegen de regels in.
 
 De overtreding van Wet 1.4 (RDM) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
@@ -34,33 +34,40 @@ Op het moment dat iemand onder de 50 km/h rijdt wil niet zeggen dat het is toege
 
 De overtreding van Wet 1.5 (VDM) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.6 - Meta-gaming
+## Wet 1.6 - Geen intentie tot Roleplay
+
+Het is ten alle tijden verplicht om je aan de roleplay te houden binnen Groningen. Wij zijn een roleplay server en daarom verwachten wij dat iedereen daar rekening mee houdt. Een voorbeeld hiervan is bijvoorbeeld als je aangereden word dien je er normale roleplay van te maken. 
+
+De overtreding van Wet 1.6 (Geen intentie tot Roleplay) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+## Wet 1.7 - Value of Life 
+
+In Groningen is jouw leven eigenlijk het meest waardevol. Dit betekend dus dat het belangrijk is dat jij waarde hecht aan je leven.
+Krijg jij een wapen op je gericht? Werk dan mee. Als je niet meewerkt op het moment dat je bijvoorbeeld een wapen op je gericht hebt valt dit onder het kopje "No value of life".
+
+De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
+## Wet 1.8 - Meta-gaming
 
 Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. 
 (Discord)calls, screenshots, clips of afbeeldingen mogen dus ook niet gebruikt worden als informatie binnen jouw karakter.
 
-De overtreding van Wet 1.6 (Meta-gaming) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.7 - Cheats
+## Wet 1.9 - Cheats & Exploits
 
-Het gebruik maken van alle cheat engine's is ten alle tijden verboden.
+Het gebruik maken van enige exploits of cheats is ten alle tijden verboden. Hiermee bedoelen wij cheat engines, bug abuse of andere vormen van het oneerlijk generen van voordelen in Groningen.
 
- De overtreding van Wet 7 (Cheats) zal resulteren in een straf van de 9ᵉ categorie.
+De overtreding van Wet 1.9 (Cheats & Exploits) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
- ## Wet 1.8 - Exploits
-
-Het gebruik maken van Exploits of bugs is niet toegestaan. Indien je achter een exploit of bug komt dien je dit per direct te melden bij een staff-lid.
-
-Indien er alsnog misbruik wordt gemaakt van deze exploit zal dit resulteren in een straf volgens de 7ᵉ en 10ᵉ categorie.
-
-## Wet 1.9 - Herkenning
+## Wet 1.10 - Herkenning
 
 Het herkennen van iemand uit bijvoorbeeld het gezicht is toegestaan indien de persoon vaker in jouw leven voorkomt. Wanneer de persoon gezichtsbedekkende kleding draagt is dit echter niet toegestaan.
 Iemand herkennen aan een stem is ook toegestaan wanneer deze persoon vaker met je omgaat in jouw leven. 
 
-De overtreding van Wet 1.9 (Herkenning) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.10 (Herkenning) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.10 - Voice changers & Soundpad(s)
+## Wet 1.11 - Voice changers & Soundpad(s)
 
 1. Het gebruik maken van een voice changer is toegestaan indien hier goede RP aan is gekoppeld. Wanneer je altijd een voice changer gebruikt voor je stem om anders te klinken is dit echter weer niet toegestaan.
 Een enkel voorbeeld wanneer je het wel mag gebruiken is wanneer je aan het onderhandelen bent met de politie, je iemand ontvoerd hebt of met andere gelegenheden die goede roleplay bevatten.
@@ -68,56 +75,56 @@ Een enkel voorbeeld wanneer je het wel mag gebruiken is wanneer je aan het onder
 2. Het gebruik maken van een Soundpad is enkel toegestaan tijdens het gebruik van een goed roleplay scenario. Het rondrijden in een auto met een soundpad bijvoorbeeld is weer niet toegestaan.
 Het gebruik maken van je soundpad voor het afspelen van een stem bijvoorbeeld in onderhandelingen is tevens wel toegestaan.
 
-De overtreding van Wet 1.10 (Voice changers & Soundpads) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.11 (Voice changers & Soundpads) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.11 - Racisme & Schelden
+## Wet 1.12 - Racisme & Taalgebruik
 
 1. Het is ten alle tijden verboden om mensen te beledigen door hun afkomst, godsdienst, taal, huidskleur of andere soortgelijke dingen.
 
 2. Het gebruik maken van hederdaagse ziekten is niet toegestaan. Ook het beledigen van spelers hiermee is niet toegestaan.
 
-De overtreding van Wet 1.11 (Racisme & Schelden) zal resulteren in een straf van de 4ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.12 (Racisme & Taalgebruik) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.12 - Combat logging
+## Wet 1.13 - Combat logging
 
 Het uitloggen tijdens een roleplay scenario is verboden. Een voorbeeld hiervan is bijvoorbeeld achtervolgt worden door de politie en vervolgens uit te loggen doormiddel van wat voor tactiek dan ook.
 
-De overtreding van Wet 1.12 (Combat logging) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.13 - Combat storing
+## Wet 1.14 - Combat storing
 
 Het plaatsen van een voertuig in de garage om vervolgens een boete, inbeslagname of ripactie te voorkomen is niet toegestaan.
 
-De overtreding van Wet 1.13 (Combat storing) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.14 (Combat storing) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.14 - New Life Rule (NLR)
+## Wet 1.15 - New Life Rule (NLR)
 
 Wanneer je bent overleden omwille van wat voor reden dan is het verboden om het laatste roleplay scenario wat gezorgt heeft voor het overlijden te herinneren.
 Wanneer er een god (staff-lid) is gekomen omdat er een van wetsartikelen is overtreden en hij aangeeft dat je geen new life rule krijgt is deze regel echter niet geldig en van kracht.
 
-De overtreding van Wet 1.14 (New Life Rule) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.15 - Third Party Mods
+## Wet 1.16 - Third Party Mods
 
 Het gebruik maken van mods (crosshairs, cheats etc.) of derden is niet toegestaan.
 Er zijn echter een aantal dingen wel toegestaan, het gebruik maken van een Soundpack (wapen geluiden, voertuig geluiden etc.) en het gebruik maken van een visualpack (graphics mod).
 
-De overtreding van Wet 1.15 (Third Party Mods) zal resulteren in een straf van de 9ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.16 (Third Party Mods) zal resulteren in een straf van de 9ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.16 - Streamsnipen
+## Wet 1.17 - Streamsnipen
 
 Het gebruik maken van informatie die verkregen is doormiddel van een video of door een livestream op een stream of videoplatvorm is niet toegestaan.
 
-De overtreding van Wet 1.16 (Streamsnipen) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.17 (Streamsnipen) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## Wet 1.17 - Roleplay scenario's
+## Wet 1.18 - Roleplay scenario's
 
 Zodra er een roleplay scenario begint is het niet toegestaan om uit te loggen voor de komende 15 minuten. 
 Wanneer je moet gaan met hoge urgentie dien je dit te melden aan staffleden en anders is er kans op een sanctie hiervoor.
 
-De overtreding van Wet 1.17 (RP scenario's) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.18 (RP scenario's) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-
+***
 
 Wij hebben ervoor gekozen om de algemene regels in te delen in 3 delen. Dit om het overzichtelijker te houden en het makkelijker te lezen maakt.
 Mocht er iets missen kun je ten alle tijden een support ticket aanmaken met mogelijke suggesties.
@@ -125,9 +132,9 @@ Mocht er iets missen kun je ten alle tijden een support ticket aanmaken met moge
 Deel 1 omvat de volgende onderwerpen:
 
 - Informatie m.b.t. overvallen
-- Benodige wapens tijdens overvallen
+- Benodigde wapens tijdens overvallen
 - Overvallen tijdens evenementen
-- Overvallen op drugslocatie(s)
+- Overvallen op drugs locatie(s)
 - Verkoop via Twitter
 
 ## Wet 2.1.1 - Daken
@@ -139,11 +146,13 @@ De overtreding van Wet 2.1 (Daken) zal resulteren in een straf van de 1ᵉ categ
 ## Wet 2.1.2 - Overvallen & Wapens
 
 1. Het is tijdens het plegen van een overval toegestaan om informatie door te geven aan derden of informatie te ontvangen vanuit derden.
-Het meedoen aan een overval vanaf buitenaf (het schieten op de overheidsdiensten) is echter niet toegestaan. Ook zodra er ergens binnengevallen wordt is dit nogsteeds niet toegestaan.
+Het meedoen aan een overval vanaf buitenaf (het schieten op de overheidsdiensten) is echter niet toegestaan. Ook zodra er ergens binnengevallen wordt is dit nog steeds niet toegestaan.
 Informatie die gegeven wordt door de overheid aan nieuwszenders mogen niet doorgegeven worden aan overvallers.
 
 2. Tijdens het plegen van een overval dien je voor bepaalde dingen ten alle tijden een wapen te hebben. Dit zal hieronder duidelijker vermeld worden.
 Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder geschut te gebruiken, dit is op eigen risico.
+
+3. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
 
 - Winkel: Handwapens
 - (Kleine) Bank: Vuurwapens
@@ -160,12 +169,12 @@ De overtreding van Wet 2.2 (Overvallen & Wapens) zal resulteren in een straf van
 Het is niet toegestaan om overvallen te starten tijdens evenementen. Ongeacht of de voorbedachte gedachten ervan goed of niet waren blijft het verboden tenzij het bij het evenement betrokken is.
 De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.1.4 - Rippen
+## 2.1.4 - Spelers overvallen (rippen)
 
-Het overvallen (rippen) van iemand is toegestaan binnen Groningen. 
-Er dient ten alle tijden een reden achter het rippen te zitten. Indien dit niet het geval is zal er een sanctie opgelegt worden.
-Het is wel ten alle tijden toegestaan om iemand te rippen met militaire kleding of een masker.
-Er zijn een aantal dingen die niet geripped mogen worden van spelers en die staan hieronder beschreven.
+Het overvallen (rippen) van een speler is toegestaan. 
+Er dient ten alle tijden een reden achter het rippen te zitten. Indien dit niet het geval is zal er een sanctie opgelegd worden.
+Het is wel ten alle tijden toegestaan om iemand te rippen als diegene maskers of militaire kledij draagt.
+Er zijn een aantal dingen die niet gestolen mogen worden van spelers en die staan hieronder beschreven.
 
 - Overschot aan kogels (Politie & Koninklijke Marechaussee).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
@@ -178,16 +187,16 @@ Het is ook niet toegestaan om mensen dood te schieten na het rippen indien ze go
 
 De overtreding van Wet 2.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.1.5 Campen op een drugslocatie
+## 2.1.5 Campen op een drugs locatie
 
-Het is niet toegestaan om mensen te rippen op en rondom drugslocaties. Hiermee wordt ook de startlocatie bedoelt (waar je aanklopt).
+Het is niet toegestaan om mensen te rippen op en rondom drugslocaties. Hiermee wordt ook de startpositie bedoelt (waar je aanklopt).
 Ook het rippen rondom een cocaïne farm van minimaal 100 meter is niet toegestaan (tenzij je een rode marker krijgt op de map).
-Het iemand forceren uit een bepaalde drugslocatie om hem vervolgens dood te schieten of iets is daarentegen ook niet toegestaan.
-Het is ook niet toegestaan om naar een drugslocatie te rijden om het te voorkomen overvallen te worden.
+Het iemand forceren uit een bepaalde drugs locatie om hem vervolgens dood te schieten of iets is daarentegen ook niet toegestaan.
+Het is ook niet toegestaan om naar een drugs locatie te rijden om het te voorkomen overvallen te worden.
 Stel de RP start al voordat dit gebeurt is dan is het uiteraard WEL toegestaan om de RP tijdens af te maken. 
-Maak hier wel een clip bij zodat je jezelf goed kunt verdeligen tijdens een mogelijke staffzaak.
+Maak hier wel een clip bij zodat je jezelf goed kunt verdedigen tijdens een mogelijke staffzaak.
 
-De overtreding van Wet 2.5 (Campen op een drugslocatie) zal resulteren in een straf van de 2ᵉ categorie.
+De overtreding van Wet 2.5 (Campen op een drugs locatie) zal resulteren in een straf van de 2ᵉ categorie.
 
 ## 2.1.6 - Verkoop via Twitter
 
@@ -287,12 +296,11 @@ De overtreding van Wet 2.3.4 (Transacties tijdens veilingen) zal resulteren in e
 
 ## 3.1 - GTA Rijstyle
 
-1. GTA rijstyle houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportcars.
+1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportcars.
 
-2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realisme zoals snelheden, gewichten en groottes van voertuigen.
-Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 125 km/h.
+2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realisme zoals snelheden, gewichten en groottes van voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 125 km/h. De overheidsdiensten (Politie & KMar) hebben hier een uitzondering voor).
 
-De overtreding van Wet 3.1 (GTA rijstyle) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.1 (GTA rijstijl) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.2 - Kleding
 
@@ -321,9 +329,9 @@ De overtreding van Wet 3.4 (Karakter aanpassingen) zal resulteren in een straf v
 
 ## 3.5 Oplichten (scammen)
 
-Het oplichten binnen Groningen is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven.
-Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,-
-Illegale goederen zoals hand en -vuurwapens mogen voor een maximum bedrag van €10.000,- opgelicht worden.
+1. Het oplichten binnen Groningen is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,- Illegale goederen zoals hand en -vuurwapens zitten echter geen limiet aan.
+
+2. Het oplichten van spelers met minder als 4u speeltijd is niet toegestaan. Hoe je dit kunt herkennen is als ze nog niet kunnen slaan of als ze bijvoorbeeld in een standaard outfit rondlopen.
 
 De overtreding van Wet 3.5 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
