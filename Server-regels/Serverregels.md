@@ -96,8 +96,9 @@ De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 
 
 ## 1.14 - Combat storing
 
-Het plaatsen van een voertuig in de garage om vervolgens een boete, inbeslagname of ripactie te voorkomen is niet toegestaan.
-Wanneer je actief bezig bent met het produceren van meth of het stashen van goederen dien je hem er uit te houden tot wanneer je stopt.
+1. Het is niet toegestaan om je voertuig te plaatsen in een garage om een inbeslagname of rip actie te voorkomen.
+
+2. Tijdens het produceren van meth is het niet toegestaan om een ander voertuig constant uit de garage te halen om het daarin op te slaan en vervolgens weer terug te plaatsen in de garage. Je dient je voertuig dan dus ten alle tijden uit de garage te laten of je meth ergens anders op te slaan.
 
 De overtreding van Wet 1.14 (Combat storing) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
