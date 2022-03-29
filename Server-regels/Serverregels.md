@@ -357,7 +357,7 @@ De overtreding van Wet 2.3.5 (Het zelf organiseren van een veiling) zal resulter
 
 De overtreding van Wet 3.1 (GTA rijstijl) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 3.2 - Kleding
+## 3.2 - Karakter en Kleding
 
 1. Het is verboden om kleding te dragen die gerelateerd is aan de overheid indien je er niet werkt. 
 Het stelen van de overheidskleding is ook niet toegestaan om het vervolgens aan te trekken en zal dus hetzelfde bestraft worden.
@@ -365,9 +365,13 @@ Het stelen van de overheidskleding is ook niet toegestaan om het vervolgens aan 
 2. Het is verplicht om realistische kleding te dragen. Het dragen van kleding dat gebugged is, onrealistische kleding (legerhelmen, eenhoornmaskers etc.) is niet toegestaan.
 Zodra je de stad binnenkomt is het belangrijk dat je je kleding aanpast zodat je herkent kunt worden aan je outfits, uiterlijk etc.
 
-3. Indien je kleding draagt die tegen het wetboek van Groningen ingaat (denk hierbij aan bivakmutsen etc.) hebben overheidsdiensten zoals de politie & kmar het recht om jou preventief te fouilleren.
+3. Indien je kleding draagt die tegen het wetboek van Groningen ingaan (denk hierbij aan bivakmutsen etc.) hebben overheidsdiensten zoals de politie & kmar het recht om jou preventief te fouilleren.
 
-De overtreding van Wet 3.2 (Kleding) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+4. Het is niet toegestaan om enige aanpassingen te doen aan je karakter indien je je net bevonden hebt in een overval, achtervolging of een ander strafbaar feit. Het aanpassen van kleding is echter wel toegestaan.
+
+5. Het dragen van helmen is toegestaan indien je op een motor, scooter of ander voertuig rijdt waarbij dit volgens de wetgeving verplicht is. Het dragen hiervan zonder deze voertuigen is niet toegestaan.
+
+De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.3 - Moord in de gevangenis 
 
@@ -376,29 +380,23 @@ Indien hier een goed achterliggende reden achter zit is dit echter wel toegestaa
 
 De overtreding van Wet 3.3 (Moord in de gevangenis) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 3.4 - Karakter aanpassingen
-
-Het is niet toegestaan om enige aanpassingen te doen aan je karakter indien je je net bevonden hebt in een overval, achtervolging of een ander strafbaar feit. Het aanpassen van kleding is echter wel toegestaan.
-
-De overtreding van Wet 3.4 (Karakter aanpassingen) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
-
-## 3.5 Oplichten (scammen)
+## 3.4 Oplichten (scammen)
 
 1. Het oplichten binnen Groningen is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,- Illegale goederen zoals hand en -vuurwapens en drugs zit echter geen limiet aan.
 
 2. Het oplichten van spelers met minder als 4u speeltijd is niet toegestaan. Hoe je dit kunt herkennen is als ze nog niet kunnen slaan of als ze bijvoorbeeld in een standaard outfit rondlopen.
 
-De overtreding van Wet 3.5 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 3.6 - Vluchten 
+## 3.5 - Vluchten 
 
 Indien je vlucht van een overheidsinstantie dien je dit te doen met een reden. Een boete, stoplicht passeren die op rood staat is geen geldige reden. 
 
-De overtreding van Wet 3.6 (Vluchten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.5 (Vluchten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 3.7 - Bounties
+## 3.6 - Bounties
 
 Het is niet toegestaan om bounties op iemand zijn "hoofd" te zetten. 
 Ook het inhuren van een huurmoordenaar is niet toegestaan.
 
-De overtreding van Wet 3.7 (Bounties) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.6 (Bounties) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
