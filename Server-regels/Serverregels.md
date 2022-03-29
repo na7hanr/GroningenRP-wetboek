@@ -338,6 +338,13 @@ Het is niet toegestaan om transacties te maken vanaf de aankondiging van een vei
 
 De overtreding van Wet 2.3.4 (Transacties tijdens veilingen) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
+## 2.3.5 - Organisatie van veilingen
+
+Het is volgens het wetboek van GroningenRP niet toegestaan om een veiling te organiseren. Dit is enkel toegankelijk voor het evenementen team en niet voor normale spelers zonder toestemming.
+
+Bij een veiling vatten wij het volgende op: Storage loods veiling (Storage Wars e.d.), auto veiling, illegale goederen veiling en een huizen veiling. (Bij wapenveilingen kan er een uitzondering worden gemaakt voor het Schietvereniging Groningen.) 
+
+De overtreding van Wet 2.3.5 (Het zelf organiseren van een veiling) zal resulteren in een straf van de 4ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 --------------------------------
 
 ## 3.1 - GTA Rijstyle
