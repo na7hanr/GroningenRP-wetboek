@@ -65,8 +65,9 @@ De overtreding van Wet 1.9 (Cheats & Exploits) zal resulteren in een straf van d
 
 ## 1.10 - Herkenning
 
-Het herkennen van iemand uit bijvoorbeeld het gezicht is toegestaan indien de persoon vaker in jouw leven voorkomt. Wanneer de persoon gezichtsbedekkende kleding draagt is dit echter niet toegestaan.
-Iemand herkennen aan een stem is ook toegestaan wanneer deze persoon vaker met je omgaat in jouw leven. 
+1. Het herkennen van iemand uit bijvoorbeeld het gezicht is toegestaan indien de persoon vaker in jouw leven voorkomt. Wanneer de persoon gezicht bedekkende kleding draagt is dit echter niet toegestaan.
+
+2. Iemand herkennen aan zijn of haar stem is toegestaan. Een uitzondering hiervan is wanneer iemand een stemvervormer gebruikt om anoniem te blijven. Denk hierbij aan de DSI/BSB of andere ongemarkeerde overheidsinstanties.
 
 De overtreding van Wet 1.10 (Herkenning) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -104,8 +105,11 @@ De overtreding van Wet 1.14 (Combat storing) zal resulteren in een straf van de 
 
 ## 1.15 - New Life Rule (NLR)
 
-Wanneer je bent overleden omwille van wat voor reden dan is het verboden om het laatste roleplay scenario wat gezorgt heeft voor het overlijden te herinneren.
-Wanneer er een god (staff-lid) is gekomen omdat er een van wetsartikelen is overtreden en hij aangeeft dat je geen new life rule krijgt is deze regel echter niet geldig en van kracht.
+1. Wanneer je bent overleden omwille van wat voor reden dan is het verboden om het laatste roleplay scenario wat gezorgt heeft voor het overlijden te herinneren.
+Als er een god (staff-lid) is gekomen omdat er een van wetsartikelen is overtreden en hij aangeeft dat je geen new life rule krijgt is deze regel echter niet geldig en van kracht.
+
+2. Wanneer jij bent overleden en je bent gerespawned bij het ziekenhuis is het ten alle tijden verboden om terug te koppelen aan hetzelfde roleplay scenario.
+Als iemand jou bijvoorbeeld verteld wat er gebeurt is, dan is het ook niet toegestaan om je dit terug te herinneren. 
 
 De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
