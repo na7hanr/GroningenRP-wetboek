@@ -65,9 +65,9 @@ De overtreding van Wet 1.9 (Cheats & Exploits) zal resulteren in een straf van d
 
 ## 1.10 - Herkenning
 
-1. Het herkennen van iemand uit bijvoorbeeld het gezicht is toegestaan indien de persoon vaker in jouw leven voorkomt. Wanneer de persoon gezicht bedekkende kleding draagt is dit echter niet toegestaan.
+1. Iemand herkennen aan zijn of haar gezicht is toegestaan in Groningen. Herken je bijvoorbeeld iemand aan zijn of haar outfit is dit ook toegestaan en dit mag ook gebruikt worden in de roleplay.
 
-2. Iemand herkennen aan zijn of haar stem is toegestaan. Een uitzondering hiervan is wanneer iemand een stemvervormer gebruikt om anoniem te blijven. Denk hierbij aan de DSI/BSB of andere ongemarkeerde overheidsinstanties.
+2. Iemand herkennen aan zijn of haar stem is ook toegestaan wanneer diegene geen stemvervormer gebruikt.
 
 De overtreding van Wet 1.10 (Herkenning) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
