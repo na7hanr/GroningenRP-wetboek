@@ -52,8 +52,13 @@ De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 3�
 
 ## 1.8 - Meta-gaming
 
-Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. 
-(Discord)calls, screenshots, clips of afbeeldingen mogen dus ook niet gebruikt worden als informatie binnen jouw karakter.
+1. Alle informatie die buiten jouw karakter in FiveM om is verkregen valt onder Meta-gaming. 
+
+2. Wanneer je met mensen in een voice channel zit die binnen Groningen spelen is het niet toegestaan om te streamen en dien je gemute en gedeafened te zijn.
+
+3. Op het moment dat een staff-lid iemand verdenkt van Meta-gaming mag diegene bewijs opvragen. Indien dit niet aangetoont kan worden zal hierop gestraft mogen worden.
+
+4. Zodra je informatie verspreid via de overheids portofoon (Teamspeak) dien je ten alle tijden in-game te horen te zijn. 
 
 De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -336,19 +341,16 @@ Het is niet toegestaan om afwezig te zijn van je device terwijl je aanwezig bent
 
 De overtreding van Wet 2.3.3 (AFK staan) zal resulteren in een warn en na 2 warns zul je een straf van de 1ᵉ categorie kunnen ontvangen.
 
-## 2.3.4 - Transacties tijdens veilingen
+## 2.3.4 - Veilingen
 
-Het is niet toegestaan om transacties te maken vanaf de aankondiging van een veiling (tenzij anders is aangegeven). Dit is niet toegestaan op geen enkele manier dus ook niet via kluizen of kofferbakken.
+1. Het is niet toegestaan om transacties te maken vanaf de aankondiging van een veiling (tenzij anders is aangegeven). Dit is niet toegestaan op geen enkele manier dus ook niet via kluizen of kofferbakken.
 
-De overtreding van Wet 2.3.4 (Transacties tijdens veilingen) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
-
-## 2.3.5 - Organisatie van veilingen
-
-Het is volgens het wetboek van GroningenRP niet toegestaan om een veiling te organiseren. Dit is enkel toegankelijk voor het evenementen team en niet voor normale spelers zonder toestemming.
+2. Het organiseren van een veiling is niet zomaar toegestaan. Dit is enkel toegankelijk voor het evenementen team en niet voor normale spelers zonder toestemming.
 
 Bij een veiling vatten wij het volgende op: Storage loods veiling (Storage Wars e.d.), auto veiling, illegale goederen veiling en een huizen veiling. (Bij wapenveilingen kan er een uitzondering worden gemaakt voor het Schietvereniging Groningen.) 
 
-De overtreding van Wet 2.3.5 (Het zelf organiseren van een veiling) zal resulteren in een straf van de 4ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
 --------------------------------
 
 ## 3.1 - GTA Rijstyle
@@ -376,13 +378,6 @@ Zodra je de stad binnenkomt is het belangrijk dat je je kleding aanpast zodat je
 5. Het dragen van helmen is toegestaan indien je op een motor, scooter of ander voertuig rijdt waarbij dit volgens de wetgeving verplicht is. Het dragen hiervan zonder deze voertuigen is niet toegestaan.
 
 De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
-
-## 3.3 - Moord in de gevangenis 
-
-Het is niet toegestaan  om mensen zonder reden aan te vallen in de gevangenis. 
-Indien hier een goed achterliggende reden achter zit is dit echter wel toegestaan.
-
-De overtreding van Wet 3.3 (Moord in de gevangenis) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.4 Oplichten (scammen)
 
