@@ -1,9 +1,12 @@
 ## 1.1 - Fail Roleplay (FailRP)
 
-Onrealistische of onmogelijke roleplay is verboden. Dit valt onder het voeren van roleplay die in het echte leven ook niet verricht kan worden. 
+1. Onrealistische of onmogelijke roleplay is verboden. Dit valt onder het voeren van roleplay die in het echte leven ook niet verricht kan worden. 
 Denk hierbij aan het gebruik maken van bugs, glitches, exploits of aangereden worden en doen alsof er niks aan de hand is.
 
-De overtreding van Wet 1 (FailRP) zal resulteren in een straf van de 1ᵉ categorie die iedere keer oploopt bij het overtreden hiervan.
+2. Het gebruik maken van "broodje META" of andere termen om zo alsnog OOC te kunnen praten is vanaf heden ook niet meer toegestaan.
+Het buiten karakter treden zonder een staff-zaak of toestemming van een staff-lid zal zwaar gehandhaafd worden.
+
+De overtreding van Wet 1 (FailRP) zal resulteren in een straf van de 2ᵉ categorie die iedere keer oploopt bij het overtreden hiervan.
 
 ## 1.2 - Powergaming
 
@@ -294,8 +297,9 @@ De overtreding van Wet 2.2.3 (Job menu) zal resulteren in een straf van de 3ᵉ 
 ## 2.2.4 - Corruptie
 
 Het uitvoeren van corruptie als overheidsdienst is ten strengste verboden. 
-Hieronder valt bijvoorbeeld het gratis tunen van voertuigen, het reanimeren van een persoon die bijvoorbeeld dood is en het pakken van items uit de politiekluis en deze vervolgens doorverkopen.
-Dit zijn enkel voorbeelden, alle andere vormen van corruptie zijn ook niet toegestaan.
+Voordelen gebruiken die jij hebt als overheidsdienst hebt om hiermee winst te maken zijn niet toegestaan.
+Het reanimeren van iemand die overleden is of spullen halen uit een kluis onder welke omstandigheden ook zonder toestemming van een hogere.
+Dit zijn enkel voorbeelden. Dingen zoals het uitvoeren van criminele activiteiten als Politie of Koninklijke Marechaussee vallen hier ook onder.
 
 De overtreding van Wet 2.2.4 (Corruptie) zal resulteren in een straf van de 7ᵉ (en mogelijk 10ᵉ) categorie.
 
