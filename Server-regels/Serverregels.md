@@ -154,8 +154,6 @@ Deel 1 omvat de volgende onderwerpen:
 - Overvallen op drugs locatie(s)
 - Verkoop via Twitter
 
-**LET OP: Cayo Perico is een redzone. Dit houdt in dat het rippen van mensen wel is toegestaan. Het campen bij de inpaklocaties of drugslocaties is echter nogsteeds niet toegestaan. (Ook de cocaïnefarms)!**
-
 ## 2.1.1 - Daken
 
 Tijdens het plegen van een overval is het niet toegestaan om derden op een dak te plaatsen om vanaf daar op de overheid te schieten.
@@ -206,8 +204,6 @@ Het overvallen (rippen) van een speler is toegestaan.
 Er dient ten alle tijden een reden achter het rippen te zitten. Indien dit niet het geval is zal er een sanctie opgelegd worden.
 Het is wel ten alle tijden toegestaan om iemand te rippen als diegene maskers of militaire kledij draagt.
 
-Let op: Een uitzondering is het Cayo Perico eiland. Hier ben je niet veilig en is het je eigen risico. Het rippen hier is toegestaan, dit is namelijk een redzone.
-
 Er zijn een aantal dingen die niet gestolen mogen worden van spelers en die staan hieronder beschreven.
 
 - Overschot aan kogels (Politie & Koninklijke Marechaussee).
@@ -221,7 +217,7 @@ Het is ook niet toegestaan om mensen dood te schieten na het rippen indien ze go
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.1.5 Tiewrappen en boeien
+## 2.1.5 Tiewraps en boeien
 
 1. Aan het vastbinden van iemand met tiewraps of handboeien dient ten alle tijden goede roleplay gekoppeld te zijn.
 Indien je dus iemand wilt tiewrappen dien jij je aan de volgende dingen te houden:
