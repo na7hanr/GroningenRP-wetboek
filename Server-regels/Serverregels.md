@@ -63,13 +63,13 @@ De overtreding van Wet 1.7 (Value of Life) zal resulteren in een straf van de 3�
 
 4. Zodra je informatie verspreid via de overheids portofoon (Teamspeak) dien je ten alle tijden in-game te horen te zijn. 
 
-De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.8 (Meta-gaming) zal resulteren in een straf van de 4ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 1.9 - Cheats & Exploits
+## 1.9 - Exploits
 
-Het gebruik maken van enige exploits of cheats is ten alle tijden verboden. Hiermee bedoelen wij cheat engines, bug abuse of andere vormen van het oneerlijk generen van voordelen in Groningen.
+Het gebruik maken van enige exploits is ten alle tijden verboden. Hiermee bedoelen wij bug abuse of andere vormen van het oneerlijk generen van voordelen in Groningen.
 
-De overtreding van Wet 1.9 (Cheats & Exploits) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 1.9 (Exploits) zal resulteren in een straf van de 6ᵉ categorie tot de 10ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.10 - Herkenning
 
@@ -189,7 +189,8 @@ Indien dit niet het geval is is het verboden om dit transport te overvallen.
 - Kleine bank: 5+ Agenten
 - Cayo Perico: 8+ Agenten
 - Casino: 10+ Agenten
-- G4S : 12+ Agenten
+- G4S: 12+ Agenten
+- Jacht: 10+ Agenten
 
 De overtreding van Wet 2.1.2 (Overvallen & Wapens) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -200,7 +201,7 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
 
 ## 2.1.4 - Spelers overvallen (rippen)
 
-Het overvallen (rippen) van een speler is toegestaan.
+1. Het overvallen (rippen) van een speler is toegestaan.
 Er dient ten alle tijden een reden achter het rippen te zitten. Indien dit niet het geval is zal er een sanctie opgelegd worden.
 Het is wel ten alle tijden toegestaan om iemand te rippen als diegene maskers of militaire kledij draagt.
 
@@ -214,6 +215,9 @@ Er zijn een aantal dingen die niet gestolen mogen worden van spelers en die staa
 - BakkerBV goederen.
 
 Het is ook niet toegestaan om mensen dood te schieten na het rippen indien ze goed meegewerkt hebben om ze zo alles te laten 'vergeten'.
+
+2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezichtsbedekkende kleding of bovenstaande regels.
+Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -299,20 +303,27 @@ Dit zijn enkel voorbeelden. Dingen zoals het uitvoeren van criminele activiteite
 
 De overtreding van Wet 2.2.4 (Corruptie) zal resulteren in een straf van de 7ᵉ (en mogelijk 10ᵉ) categorie.
 
-## 2.2.5 (Cop)Baiting
+## 2.2.5 - IRL Trading
+
+Het verhandelen van goederen voor echt geld, denk hierbij aan wapens, voertuigen of andere dingen is ten strengste verboden.
+
+De overtreding van Wet 2.2.5 (IRL Trading) zal resulteren in een straf van de 7ᵉ en dit kan oplopen tot de 10ᵉ categorie.
+
+
+## 2.2.6 (Cop)Baiting
 
 Het is niet toegestaan om spelers of overheidsinstanties uit te lokken indien er geen goede roleplay achter zit. Elke roleplay situatie moet een doel hebben.
 
-De overtreding van Wet 2.2.5 ((Cop)baiting) zal resulteren in een straf van de 2ᵉ categorie.
+De overtreding van Wet 2.2.6 ((Cop)baiting) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.2.6 Bewijsmateriaal
+## 2.2.7 Bewijsmateriaal
 
 Zodra een persoon een geldige bodycam draagt op zijn kleding mag dit gebruikt worden als officieel bewijsmateriaal.
 Hierbij geldt ook dat op overheidsvoertuigen een dashcam zit. 
 Zodra een persoon overleden is dan dienen deze bewijsmaterialen door een ander gepakt te worden (via /me bijvoorbeeld) om daadwerkelijk geldig verklaart te worden.
 Om dit te voorkomen kan een crimineel ervoor kiezen om zodra iemand de wet overtreed het bewijsmateriaal te vernietigen.
 
-De overtreding van Wet 2.2.6 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
+De overtreding van Wet 2.2.7 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
 
 
 Deel 3 omvat de volgende onderwerpen:
