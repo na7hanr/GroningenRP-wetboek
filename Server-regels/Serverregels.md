@@ -235,6 +235,9 @@ Indien je dus iemand wilt tiewrappen dien jij je aan de volgende dingen te houde
 2. Het begeleiden en plaatsen in een voertuig van iemand is ook alleen nog maar toegestaan wanneer de deur van het voertuig OPEN staat. 
 Het zomaar erin "toveren" van iemand in een voertuig is niet meer toegestaan.
 
+3. Op het moment dat jou boeien loslaten is het niet toegestaan om enige actie te ondernemen indien je nog een roleplay scenario zit.
+Mocht de agent of KMAR collega zijn weggegaan is het wel toegestaan om gewoon het gebied te verlaten en je eigen dingen te hervatten.
+
 De overtreding van Wet 2.1.5 (Tiewrappen en boeien) zal resulteren in een straf van de 2ᵉ categorie.
 
 ## 2.1.6 Campen op een drugs locatie
