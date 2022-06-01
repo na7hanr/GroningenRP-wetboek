@@ -319,14 +319,25 @@ Het is niet toegestaan om spelers of overheidsinstanties uit te lokken indien er
 
 De overtreding van Wet 2.2.6 ((Cop)baiting) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.2.7 Bewijsmateriaal
+## Regel 2.2.7 Overheidsvoertuigen
+
+Overheidsvoertuigen stelen:
+Achter het stelen van overheidsvoertuigen moet ten alle tijd goede RP zitten.
+Het stelen hiervan mag hierbij ook enkel met als doel om de RP te verbeteren. 
+
+Het stelen met kleinere rp (omdat je "autodief" bent, jou auto kapot is en dergelijke scenario's) is hierbij ook niet toegestaan
+
+De overtreding van 2.2.7 (overheidsvoertuigen stelen) zal resulteren in een straf van de 2ᵉ categorie die iedere keer oploopt bij het overtreden hiervan
+
+
+## 2.2.8 Bewijsmateriaal
 
 Zodra een persoon een geldige bodycam draagt op zijn kleding mag dit gebruikt worden als officieel bewijsmateriaal.
 Hierbij geldt ook dat op overheidsvoertuigen een dashcam zit. 
 Zodra een persoon overleden is dan dienen deze bewijsmaterialen door een ander gepakt te worden (via /me bijvoorbeeld) om daadwerkelijk geldig verklaart te worden.
 Om dit te voorkomen kan een crimineel ervoor kiezen om zodra iemand de wet overtreed het bewijsmateriaal te vernietigen.
 
-De overtreding van Wet 2.2.7 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
+De overtreding van Wet 2.2.8 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
 
 
 Deel 3 omvat de volgende onderwerpen:
