@@ -125,6 +125,7 @@ De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2
 
 Het gebruik maken van mods (crosshairs, cheats etc.) of derden is niet toegestaan.
 Er zijn echter een aantal dingen wel toegestaan, het gebruik maken van een Soundpack (wapen geluiden, voertuig geluiden etc.) en het gebruik maken van een visualpack (graphics mod).
+Alle modificaties die leiden tot een voordeel zijn verboden.
 
 De overtreding van Wet 1.16 (Third Party Mods) zal resulteren in een straf van de 9ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
