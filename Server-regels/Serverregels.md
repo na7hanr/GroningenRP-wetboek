@@ -292,9 +292,7 @@ De overtreding van Wet 2.2.2 (Vliegen zonder vliegbrevet) zal resulteren in een 
 
 ## 2.2.3 - Job menu
 
-Het forceren van een job menu van iemand die bij de overheid werkt is niet toegestaan.
-Een enkel voorbeeld hiervan is bijvoorbeeld dat een agent over handboeien beschikt die hij niet mag gebruiken in het voordeel van de crimineel door bijvoorbeeld burgers in de handboeien te slaan.
-Het forceren om iemand zijn wapens af te pakken via het fouilleren is ook tegen de regels en valt onder dezelfde regel.
+Het forceren van een job menu van iemand die bij de overheid werkt is niet toegestaan. Een enkel voorbeeld hiervan is bijvoorbeeld dat een agent over handboeien beschikt die hij niet mag gebruiken in het voordeel van de crimineel door bijvoorbeeld burgers in de handboeien te slaan. Het forceren om iemand zijn wapens af te pakken via het fouilleren is ook tegen de regels en valt onder dezelfde regel. Echter mogen deuren wel open geforceerd worden.
 
 De overtreding van Wet 2.2.3 (Job menu) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -383,9 +381,7 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 
 1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportcars.
 
-2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realisme zoals snelheden, gewichten en groottes van voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 125 km/h. De overheidsdiensten (Politie & KMar) hebben hier een uitzondering voor).
-
-3. Het rijden op velg(en) is niet toegestaan voor voertuigen met 4 banden of minder. Zodra een voertuig 6 banden heeft is het toegestaan om te rijden op 2 velgen en 4 banden maximaal. Zodra er meer banden lek raken dient het voertuig per direct te stoppen.
+2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten
 
 De overtreding van Wet 3.1 (GTA rijstijl) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
