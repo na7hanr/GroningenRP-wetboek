@@ -124,8 +124,9 @@ De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2
 ## 1.16 - Third Party Mods
 
 Het gebruik maken van mods (crosshairs, cheats etc.) of derden is niet toegestaan.
-Er zijn echter een aantal dingen wel toegestaan, het gebruik maken van een Soundpack (wapen geluiden, voertuig geluiden etc.) en het gebruik maken van een visualpack (graphics mod).
-Alle modificaties die leiden tot een voordeel zijn verboden.
+Er zijn echter een aantal dingen wel toegestaan, het gebruik maken van een Soundpack (wapen geluiden, voertuig geluiden etc.) en het gebruik maken van een visualpack (graphics mod). 
+
+**Alle modificaties die leiden tot een voordeel zijn verboden.**
 
 De overtreding van Wet 1.16 (Third Party Mods) zal resulteren in een straf van de 9ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -273,6 +274,13 @@ Hieronder vallen de onderstaande dingen:
 
 De overtreding van Wet 2.1.8 (Verkoop via Twitter) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
+## 2.1.9 - Kweken en produceren
+
+Het produceren, kweken of genereren van illegale goederen in custom MLO's/gebouwen is niet toegestaan. 
+Ook is het niet toegestaan om te produceren of wiet te kweken op daken die niet toegankelijk zijn zonder helikopters of vliegtuigen.
+
+De overtreding van Wet 2.1.9 (Wiet Potten) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+
 Deel 2 omvat de volgende onderwerpen:
 
 - Groningen wetboek
@@ -292,7 +300,8 @@ De overtreding van Wet 2.2.2 (Vliegen zonder vliegbrevet) zal resulteren in een 
 
 ## 2.2.3 - Job menu
 
-Het forceren van een job menu van iemand die bij de overheid werkt is niet toegestaan. Een enkel voorbeeld hiervan is bijvoorbeeld dat een agent over handboeien beschikt die hij niet mag gebruiken in het voordeel van de crimineel door bijvoorbeeld burgers in de handboeien te slaan. Het forceren om iemand zijn wapens af te pakken via het fouilleren is ook tegen de regels en valt onder dezelfde regel. Echter mogen deuren wel open geforceerd worden.
+Het forceren van een job menu van iemand die bij de overheid werkt is niet toegestaan. Een enkel voorbeeld hiervan is bijvoorbeeld dat een agent over handboeien beschikt die hij niet mag gebruiken in het voordeel van de crimineel door bijvoorbeeld burgers in de handboeien te slaan. 
+Het forceren om iemand zijn wapens af te pakken via het fouilleren is ook tegen de regels en valt onder dezelfde regel. Echter mogen deuren wel open geforceerd worden.
 
 De overtreding van Wet 2.2.3 (Job menu) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
@@ -318,7 +327,8 @@ Het is niet toegestaan om spelers of overheidsinstanties uit te lokken indien er
 
 De overtreding van Wet 2.2.6 ((Cop)baiting) zal resulteren in een straf van de 2ᵉ categorie.
 
-## Regel 2.2.7 Overheidsvoertuigen
+
+### Regel 2.2.7 Overheidsvoertuigen
 
 Overheidsvoertuigen stelen:
 Achter het stelen van overheidsvoertuigen moet ten alle tijd goede RP zitten.
@@ -328,7 +338,6 @@ Het stelen met kleinere rp (omdat je "autodief" bent, jou auto kapot is en derge
 
 De overtreding van 2.2.7 (overheidsvoertuigen stelen) zal resulteren in een straf van de 2ᵉ categorie die iedere keer oploopt bij het overtreden hiervan
 
-
 ## 2.2.8 Bewijsmateriaal
 
 Zodra een persoon een geldige bodycam draagt op zijn kleding mag dit gebruikt worden als officieel bewijsmateriaal.
@@ -336,7 +345,7 @@ Hierbij geldt ook dat op overheidsvoertuigen een dashcam zit.
 Zodra een persoon overleden is dan dienen deze bewijsmaterialen door een ander gepakt te worden (via /me bijvoorbeeld) om daadwerkelijk geldig verklaart te worden.
 Om dit te voorkomen kan een crimineel ervoor kiezen om zodra iemand de wet overtreed het bewijsmateriaal te vernietigen.
 
-De overtreding van Wet 2.2.8 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
+De overtreding van Wet 2.2.7 (Bewijsmateriaal)) zal resulteren in een straf van de 3ᵉ categorie.
 
 
 Deel 3 omvat de volgende onderwerpen:
@@ -379,9 +388,11 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 
 ## 3.1 - GTA Rijstyle
 
-1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportcars.
+1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen.
 
-2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten
+2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten.
+
+3. Het eraf rijden van mensen op een motor is toegestaan tot maximaal 50 km/h. Let erop dat het wel realistisch moet zijn en je iemand er niet volledig afrijdt. Houdt er ook rekening mee dat iemand hierna mogelijk letsel kan hebben en dat je hier goede roleplay aan verbind.
 
 De overtreding van Wet 3.1 (GTA rijstijl) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
