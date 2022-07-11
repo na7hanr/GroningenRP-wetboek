@@ -97,11 +97,17 @@ De overtreding van Wet 1.11 (Voice changers & Soundpads) zal resulteren in een s
 
 De overtreding van Wet 1.12 (Racisme & Taalgebruik) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
-## 1.13 - Combat logging
+## 1.13 - Combatlogging
 
-Het uitloggen tijdens een roleplay scenario is verboden. Een voorbeeld hiervan is bijvoorbeeld achtervolgt worden door de politie en vervolgens uit te loggen doormiddel van wat voor tactiek dan ook.
+Het uitloggen om een roleplay scenario te voorkomen is niet toegestaan. Stel je word overvallen en je logt net uit voordat degene jou kan overvallen valt dit onder combatlogging.
+Omdat wij streng tegen het combatloggen zijn en het toch vaak gebeurt zullen er vanaf nu consequenties bovenop de ban volgen.
 
-De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 5ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+- Je complete inventory zal ingeleverd dienen te worden bij het management team.
+- Er zal je een boete ter waarde van €100.000,- ten laste gelegd worden die betaald dient te worden bij het management-team.
+- De rechten voor een gangmenu zullen afgenomen worden (indien je in het bezit bent van).
+- Er zal na je ban een 1 maand verbod liggen op het kopen van ook maar één ding bij de wapendealer.
+
+De overtreding van Wet 1.13 (Combat logging) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.14 - Combat storing
 
