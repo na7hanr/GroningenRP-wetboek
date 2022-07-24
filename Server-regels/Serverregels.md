@@ -170,26 +170,22 @@ De overtreding van Wet 2.1.1 (Daken) zal resulteren in een straf van de 1ᵉ cat
 
 ## 2.1.2 - Overvallen & Wapens
 
-1. Het is tijdens het plegen van een overval toegestaan om informatie door te geven aan derden of informatie te ontvangen vanuit derden.
-Het meedoen aan een overval vanaf buitenaf (het schieten op de overheidsdiensten) is echter niet toegestaan. Ook zodra er ergens binnengevallen wordt is dit nog steeds niet toegestaan.
-Informatie die gegeven wordt door de overheid aan nieuwszenders mogen niet doorgegeven worden aan overvallers.
-
-2. Tijdens het plegen van een overval dien je voor bepaalde dingen ten alle tijden een wapen te hebben. Dit zal hieronder duidelijker vermeld worden.
+1. Tijdens het plegen van een overval dien je voor bepaalde dingen ten alle tijden een wapen te hebben. Dit zal hieronder duidelijker vermeld worden.
 Alle dingen hieronder zijn MINIMAAL vermeld. Het is toegestaan om zwaarder geschut te gebruiken, dit is op eigen risico.
 
-3. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
+2. Het is ten alle tijden verplicht om een overval af te ronden. Het tussentijds stoppen omdat er bijvoorbeeld politie eenheden aanrijdend zijn is geen reden.
 
 - Winkel: Handwapens
 - (Kleine) Bank: Vuurwapens
 - Jacht: Vuurwapens
 - Cayo Perico: Vuurwapens
 
-4. Indien iemand het besluit om een gevangenistransport te onderscheppen dient degene in kwestie minimaal 25 maanden celstraf opgelegd gekregen hebben. 
+3. Indien iemand het besluit om een gevangenistransport te onderscheppen dient degene in kwestie minimaal 25 maanden celstraf opgelegd gekregen hebben. 
 Indien dit niet het geval is is het verboden om dit transport te overvallen.
 
-5. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
+4. Er dienen ten alle tijden meer agenten te zijn als hostages en het is niet toegestaan om meer als 1/3 van het totaal aantal agenten in-dienst zijn te ontvoeren.
 
-6. Voor het plegen van een overval dient er een minimaal aantal agenten (KMar & Politie) in-dienst te zijn. Deze zullen hieronder vermeld worden. 
+5. Voor het plegen van een overval dient er een minimaal aantal agenten (KMar & Politie) in-dienst te zijn. Deze zullen hieronder vermeld worden. 
 
 - Winkel: 3+ Agenten
 - Juwelier: 7+ Agenten
