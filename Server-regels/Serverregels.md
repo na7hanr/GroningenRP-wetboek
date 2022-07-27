@@ -390,13 +390,20 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 
 ## 3.1 - GTA Rijstyle
 
-1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen.
+1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
+
+- Met 200 km/h + door de stad rijden. ( bebouwde kom ) 
+- Offroad met voertuigen die daar niet voor bedoeld zijn.
+- Het nemen van zogenoemde jumps.
+- Het opzettelijk inrijden op personen of objecten.
+- En al het onrealistische rijgedrag wat je normaal ook niet tegenkomt op de Nederlandse wegen IRL.
 
 2. Het opzettelijk aanrijden van een voertuig (pitten) is toegestaan. Denk hierbij wel aan realistische factoren zoals snelheden, gewichten en het formaat van de voertuigen. Het pitten van een SUV met een Sedan bijvoorbeeld is niet toegestaan. Andersom weer wel. Het pitten van een voertuig is toegestaan tot een maximale snelheid van 150 km/h. Dit geldt ook voor overheidsdiensten.
+Het beuken met auto's alsof je in een botsauto zit is NIET toegestaan. Dit geldt ook voor overheidsdiensten.
 
-3. Het eraf rijden van mensen op een motor is toegestaan tot maximaal 50 km/h. Let erop dat het wel realistisch moet zijn en je iemand er niet volledig afrijdt. Houdt er ook rekening mee dat iemand hierna mogelijk letsel kan hebben en dat je hier goede roleplay aan verbind.
+3. Bestuurders van motoren mogen tot maximaal 50 km/h van hun motor afgereden worden, Alles daarboven niet meer en zal vallen onder bovengenoemd GTA Drivestyle, Let erop dat het zo realistisch mogelijm moet zijn, Houdt er ook rekening mee dat iemand hierna mogelijk letsel kan hebben en dat je hier goede roleplay aan verbind.
 
-De overtreding van Wet 3.1 (GTA rijstijl) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.2 - Karakter en Kleding
 
