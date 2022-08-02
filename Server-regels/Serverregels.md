@@ -217,6 +217,7 @@ Er zijn een aantal dingen die niet gestolen mogen worden van spelers en die staa
 - Het Kofferbakken leeghalen van standaard job voertuigen.
 - Custom kentekens van spelers.
 - BakkerBV goederen.
+- Custom sleutels/pasjes van MLO's.
 
 Het is ook niet toegestaan om mensen dood te schieten na het rippen indien ze goed meegewerkt hebben om ze zo alles te laten 'vergeten'.
 
