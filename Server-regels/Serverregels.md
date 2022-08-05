@@ -160,7 +160,7 @@ Deel 1 omvat de volgende onderwerpen:
 - Benodigde wapens tijdens overvallen
 - Overvallen tijdens evenementen
 - Overvallen op drugs locatie(s)
-- Verkoop via Twitter
+- Verkoop via telefoons
 
 ## 2.1.1 - Daken
 
@@ -264,18 +264,19 @@ Het is binnen Groningen niet toegestaan om personen te rippen op de volgende loc
 
 De overtreding van Wet 2.1.7 (Overvallen op locaties) zal resulteren in een straf van de 2ᵉ categorie.
 
-## 2.1.8 - Verkoop via Twitter
+## 2.1.8 - Verkoop via telefoon
 
-Het is niet toegestaan om illegale goederen te verhandelen via twitter.
+Het is niet toegestaan om illegale goederen te verhandelen via de telefoon. Uiteraard wel via privéberichten met mensen maar niet via marktplaats, twitter etc.
+
 Hieronder vallen de onderstaande dingen:
 
-- Handwapens
-- Slagwapens (inclusief knuppel en 'keukenmes')
-- Vuurwapens
-- Drugs
-- Witwas praktijken
+Handwapens
+Slagwapens (inclusief knuppel en 'keukenmes')
+Vuurwapens
+Drugs
+Witwas praktijken
 
-De overtreding van Wet 2.1.8 (Verkoop via Twitter) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 2.1.8 (Verkoop via telefoon) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 2.1.9 - Kweken en produceren
 
