@@ -392,7 +392,7 @@ De overtreding van Wet 2.3.4 (Veilingen) zal resulteren in een straf van de 6ᵉ
 
 ## 3.1 - GTA Rijstyle
 
-1. GTA rijstijl houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
+1. GTA rijstyle houdt in dat onrealistisch rijgedrag niet is toegestaan. Spookrijden, door bochten driften, schansen gebruiken of het off-road rijden met sportvoertuigen en met onrealistische snelheden door bepaalde gebieden rijden. Een aantal voorbeelden wat onder GTA Drivestyle valt: 
 
 - Met 200 km/h + door de stad rijden. ( bebouwde kom ) 
 - Offroad met voertuigen die daar niet voor bedoeld zijn.
@@ -405,7 +405,7 @@ Het beuken met auto's alsof je in een botsauto zit is NIET toegestaan. Dit geldt
 
 3. Bestuurders van motoren mogen tot maximaal 50 km/h van hun motor afgereden worden, Alles daarboven niet meer en zal vallen onder bovengenoemd GTA Drivestyle, Let erop dat het zo realistisch mogelijm moet zijn, Houdt er ook rekening mee dat iemand hierna mogelijk letsel kan hebben en dat je hier goede roleplay aan verbind.
 
-De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 6ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
+De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 3ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.2 - Karakter en Kleding
 
