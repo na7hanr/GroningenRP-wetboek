@@ -217,7 +217,6 @@ Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze s
 - Overschot aan kogels (Politie & Koninklijke Marechaussee).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
 - Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
-LET OP: Als je iemand overvalt en hij heeft schildpadden of haaien op zak dan mogen die wel in beslag genomen worden.
 - Het Kofferbakken leeghalen van standaard job voertuigen.
 - Custom kentekens van spelers.
 - BakkerBV goederen.
