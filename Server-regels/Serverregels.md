@@ -125,6 +125,8 @@ Als er een god (staff-lid) is gekomen omdat er een van wetsartikelen is overtred
 2. Wanneer jij bent overleden en je bent gerespawned bij het ziekenhuis is het ten alle tijden verboden om terug te koppelen aan hetzelfde roleplay scenario.
 Als iemand jou bijvoorbeeld verteld wat er gebeurt is, dan is het ook niet toegestaan om je dit terug te herinneren. 
 
+3. Wanneer je van het leven beroofd bent is het de komende 24 uur hierna niet toegestaan om deel te nemen aan een roleplay scenario tegenover de groep, gang of persoon waardoor je vermoord bent.
+
 De overtreding van Wet 1.15 (New Life Rule) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.16 - Third Party Mods
@@ -205,24 +207,27 @@ De overtreding van Wet 2.3 (Overvallen tijdens evenementen) zal resulteren in ee
 
 ## 2.1.4 - Spelers overvallen (rippen)
 
-1. Het overvallen (rippen) van een speler is toegestaan.
-Er dient ten alle tijden een reden achter het rippen te zitten. Indien dit niet het geval is zal er een sanctie opgelegd worden.
-Het is wel ten alle tijden toegestaan om iemand te rippen als diegene maskers of militaire kledij draagt.
+1. Het overvallen (rippen) van spelers is toegestaan. Dit echter wel met hieraan bepaalde regels gekoppeld.
+Er dient ten alle tijden een goede reden achter het overvallen te zitten. Indien dit niet het geval is kunnen hier sancties op gelegd worden.
+Het rippen van iemand met leger kledij of maskers is daarentegen wel toegestaan. 
+Zodra je iemand overvallen hebt en hij/zij heeft goed meegewerkt dan is het niet toegestaan om diegene van het leven te beroven. 
 
-Er zijn een aantal dingen die niet gestolen mogen worden van spelers en die staan hieronder beschreven.
+Er zijn een aantal goederen die niet ingenomen mogen worden van personen, deze staan hieronder vermeld.
 
 - Overschot aan kogels (Politie & Koninklijke Marechaussee).
 - Iemand forceren zijn/haar kluis leeg te halen in een huis.
-- Het bestelen van goederen van standaard jobs (Houthakker, Miner, Zwembad verschoner etc.).
+- Het bestelen van goederen van standaard jobs (Visser, mijner, houthakker etc.). 
+LET OP: Als je iemand overvalt en hij heeft schildpadden of haaien op zak dan mogen die wel in beslag genomen worden.
 - Het Kofferbakken leeghalen van standaard job voertuigen.
 - Custom kentekens van spelers.
 - BakkerBV goederen.
 - Custom sleutels/pasjes van MLO's.
+- Indien je een wapen signaleerd bij iemand is het na 40 minuten niet meer toegestaan diegene te rippen hiervoor.
 
-Het is ook niet toegestaan om mensen dood te schieten na het rippen indien ze goed meegewerkt hebben om ze zo alles te laten 'vergeten'.
-
-2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezichtsbedekkende kleding of bovenstaande regels.
+2. Er geldt een uitzondering van op het eiland. Hier mag je dus wel mensen overvallen (rippen) zonder gezicht bedekkende kleding of bovenstaande regels.
 Echter is het wel nogsteeds niet toegestaan om op de drugslocatie(s) te rippen.
+
+3. Het opzetten van een deal met de intentie iemand te bestelen van zijn goederen is niet toegestaan (ripdeal).
 
 De overtreding van Wet 2.1.4 (Rippen) zal resulteren in een straf van de 2ᵉ categorie.
 
@@ -409,17 +414,16 @@ De overtreding van Wet 3.1 (GTA Rijstyle) zal resulteren in een straf van de 3�
 
 ## 3.2 - Karakter en Kleding
 
-1. Het is verboden om kleding te dragen die gerelateerd is aan de overheid indien je er niet werkt. 
-Het stelen van de overheidskleding is ook niet toegestaan om het vervolgens aan te trekken en zal dus hetzelfde bestraft worden.
+1. Het is verboden om overheidskleding te dragen. Denk hierbij aan politiekleding, ambulance kleding of ANWB kleding. 
+Het zogenaamd "stelen" hiervan om het vervolgens aan te doen is ook niet toegestaan.
 
 2. Het is verplicht om realistische kleding te dragen. Het dragen van kleding dat gebugged is, onrealistische kleding (legerhelmen, eenhoornmaskers etc.) is niet toegestaan.
-Zodra je de stad binnenkomt is het belangrijk dat je je kleding aanpast zodat je herkent kunt worden aan je outfits, uiterlijk etc.
+Zodra je de stad binnenkomt is het belangrijk dat je je outfit wijzigt. Dit omdat het niet is toegestaan om als standaard zogenoemd "skinhead" rond te lopen en je je normaal dient te kleden.
 
-3. Indien je kleding draagt die tegen het wetboek van Groningen ingaan (denk hierbij aan bivakmutsen etc.) hebben overheidsdiensten zoals de politie & kmar het recht om jou preventief te fouilleren.
+3. Het dragen van gezicht bedekkende kleding is enkel toegestaan wanneer jij bezig bent met criminele activiteiten. Denk hierbij aan een overval of het produceren/kweken van drugs.
+Indien je niet in een crimineel roleplay scenario zit dien je je gezicht bedekkende kleding per direct uit/af te doen.
 
-4. Het is niet toegestaan om enige aanpassingen te doen aan je karakter indien je je net bevonden hebt in een overval, achtervolging of een ander strafbaar feit. Het aanpassen van kleding is echter wel toegestaan.
-
-5. Het dragen van helmen is toegestaan indien je op een motor, scooter of ander voertuig rijdt waarbij dit volgens de wetgeving verplicht is. Het dragen hiervan zonder deze voertuigen is niet toegestaan.
+4. Het dragen van helmen is toegestaan indien je op een motor, scooter of ander voertuig rijdt waarbij dit volgens de wetgeving verplicht is. Het dragen hiervan zonder deze voertuigen is niet toegestaan.
 
 De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
