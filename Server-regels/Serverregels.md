@@ -432,6 +432,10 @@ De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van 
 
 2. Het oplichten van spelers met minder als 4u speeltijd is niet toegestaan. Hoe je dit kunt herkennen is als ze nog niet kunnen slaan of als ze bijvoorbeeld in een standaard outfit rondlopen.
 
+3. Het is verboden om mensen op te lichten zonder een goede reden. Hier moet een goede gepaste roleplay reden achter zitten.
+
+4. Het scammen bij de witwas is niet toegestaan onder geen enkele voorwaarde.
+
 De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 3.5 - Vluchten 
