@@ -16,6 +16,9 @@ Een voorbeeld hiervan is bijvoorbeeld: /me pakt persoon vast, bind vast en sleep
 2. Het gebruik maken van de /me command is enkel toegestaan in bepaalde situaties. Dit houd dus in dat het gebruik maken ervan in een roleplay scenario om iemand uit te schelden bijvoorbeeld niet is toegestaan. Ook het misbruik maken door dingen te vermelden die er zijn gebeurd via /me is niet toegestaan. Indien een stafflid jou benadert en je microfoon doet het niet is het daarentegen wel toegestaan om even te reageren in /me.
 Het /me command mag enkel gebruikt worden in roleplay scenario's wanneer het een betekenis heeft. Geef bijvoorbeeld je pols aan, laat handboeien wat losser gaan door deze command of dat soort scenario's. 
 
+3. Je dient mee te werken aan: 
+"/me pakt communicatie middelen en dienstwapens af" 
+
 De overtreding van Wet 1.2 (Powergaming) zal resulteren in een straf van de 1ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
 ## 1.3 - Verstoring van Roleplay
@@ -428,13 +431,11 @@ De overtreding van Wet 3.2 (Karakter & Kleding) zal resulteren in een straf van 
 
 ## 3.4 Oplichten (scammen)
 
-1. Het oplichten binnen Groningen is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,- Illegale goederen zoals hand en -vuurwapens en drugs zit echter geen limiet aan.
+Het oplichten binnen Groningen is toegestaan. Echter zitten hier bepaalde regels aan vast die hieronder zijn beschreven. Legale goederen zoals auto's en items mogen maximaal opgelicht worden tot een bedrag van €5.000,- Illegale goederen zoals hand en -vuurwapens en drugs zit een max bedrag aan van 100.000,- hierbij word geen onderscheid gemaakt tussen zwart en witgeld.
 
-2. Het oplichten van spelers met minder als 4u speeltijd is niet toegestaan. Hoe je dit kunt herkennen is als ze nog niet kunnen slaan of als ze bijvoorbeeld in een standaard outfit rondlopen.
+Het oplichten van spelers met minder als 4u speeltijd is niet toegestaan. Hoe je dit kunt herkennen is als ze nog niet kunnen slaan of als ze bijvoorbeeld in een standaard outfit rondlopen.
 
-3. Het is verboden om mensen op te lichten zonder een goede reden. Hier moet een goede gepaste roleplay reden achter zitten.
-
-4. Het scammen bij de witwas is niet toegestaan onder geen enkele voorwaarde.
+Het scammen bij de witwas is onder geen enkele vooorwaarde toegestaan.
 
 De overtreding van Wet 3.4 (Oplichten) zal resulteren in een straf van de 2ᵉ categorie die iedere keer na uitvoer opgevoerd word naar de volgende categorie.
 
